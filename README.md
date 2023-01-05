@@ -1,4 +1,5 @@
- ![LOGO3434](https://user-images.githubusercontent.com/121078997/210884040-035239d4-7497-4e1f-83e6-d915029f7a4e.png) # Design-of-Tension-Member-App
+ ![LOGO3434](https://user-images.githubusercontent.com/121078997/210884040-035239d4-7497-4e1f-83e6-d915029f7a4e.png) 
+ # ![LOGO11](https://user-images.githubusercontent.com/121078997/210884427-ab51609f-a378-4613-b9c5-a2bfe289596c.jpg) Design-of-Tension-Member-App
 ### Designed and implemented a Java based GUI app for designing 4 kinds of tension members using Java Swing library in NETBEANS IDE 8.2
 #### • Utilized Java Swing Palette to design the layout and appearance of interface, including buttons, labels, text fields, and other graphical components.
 #### • Employed event-driven programming techniques to specify the behavior of the interface, including handling user input and triggering various actions.
