@@ -9,7 +9,7 @@
 ### ![image](https://user-images.githubusercontent.com/121078997/210883309-a13d217d-ed16-457d-ba1b-9158d5250abc.png)
 ## Test Case Screen 3 - Showing all the input values in a glance and presenting all the calculations performed while obtaining the optimal section.
 ### ![image](https://user-images.githubusercontent.com/121078997/210883390-697f338d-2215-4971-8126-72c64ae67935.png)
-## Test Case Screen 3 - Obtaining the result and concluding the dimensions of the most optimal section to use under the input conditions to avoid gross section yielding, net section rupture, and block shear failure.
+## Test Case Screen 3 - Obtaining the result and concluding the dimensions of the most optimal section to use under the input conditions to avoid gross section yielding, net section rupture, and block shear failure. Like in this case it is - 65X65X8
 ### ![image](https://user-images.githubusercontent.com/121078997/210883482-40a6fee9-c55b-4d43-a18e-9742c923036a.png)
 
 
