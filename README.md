@@ -1,7 +1,13 @@
 # Design-of-Tension-Member-App
 Designed and implemented a Java based GUI app for designing 4 kinds of tension members using Java Swing library in NETBEANS IDE 8.2
 ## Test Case Screen 1
-# ![image](https://user-images.githubusercontent.com/121078997/210882382-3cf398b4-cba1-4c8f-b601-a9b944cb2bd5.png)
+### ![image](https://user-images.githubusercontent.com/121078997/210882382-3cf398b4-cba1-4c8f-b601-a9b944cb2bd5.png)
 #### Selecting a Tension Member out of the given options in screen #1 
+### ![image](https://user-images.githubusercontent.com/121078997/210883309-a13d217d-ed16-457d-ba1b-9158d5250abc.png)
+
+### ![image](https://user-images.githubusercontent.com/121078997/210883390-697f338d-2215-4971-8126-72c64ae67935.png)
+
+### ![image](https://user-images.githubusercontent.com/121078997/210883482-40a6fee9-c55b-4d43-a18e-9742c923036a.png)
+
 
 
